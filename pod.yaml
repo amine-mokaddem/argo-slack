@@ -4,7 +4,4 @@ metadata:
   name: nginx
 spec:
   containers:
-  - name: nginx
-    image: zjfozje
-    ports:
-    - containerPort: 80
+
